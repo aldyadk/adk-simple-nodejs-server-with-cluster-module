@@ -15,8 +15,13 @@ Creating a simple nodejs server utilizing all cpu cores using the 'cluster' modu
 Clone the repo
 
 ```sh
-$ git clone https://github.com/aldyadk/pirple-homework-assignment-1.git
-$ cd pirple-homework-assignment-1
+$ git clone https://github.com/aldyadk/adk-simple-nodejs-server-with-cluster-module.git
+$ cd adk-simple-nodejs-server-with-cluster-module
+```
+Paste the key.pem & cert.pem files required on the 'https' folder
+
+Start the server
+```sh
 $ node index.js
 ```
 
